@@ -1,0 +1,13 @@
+{
+  "WaterRemovalEffect": 2,
+  "ShowResourcesBarsForEnemies": false,
+  "ViewSpecialResourceView": false,
+  "ComplexBlocks": false,
+  "SlowMoExplode": true,
+  "MissileTrailLengthFactor": 1.0,
+  "AllowShoulderCam": false,
+  "BlocksPerFrameInSlowBuild": 4,
+  "HideFogOfWar": false,
+  "LootBeamDisplayMode": 1,
+  "VignetteAlpha": 0.85
+}

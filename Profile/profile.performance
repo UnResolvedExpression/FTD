@@ -1,0 +1,9 @@
+{
+  "DegradedEnterFPS": 20.0,
+  "LowLodDistance": 300.0,
+  "ParticleEmittersNumber": 50,
+  "ParticleFactor": 1.0,
+  "DesiredMinimumFPS": 40.0,
+  "TrailLengthFactor": 1.0,
+  "DisableShellDisplay": false
+}

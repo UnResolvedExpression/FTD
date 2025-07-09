@@ -1,0 +1,129 @@
+{
+  "IconParameters": {
+    "BorderColor": {
+      "R": 18,
+      "G": 150,
+      "B": 255,
+      "A": 255
+    },
+    "HudBorderColor": {
+      "R": 18,
+      "G": 150,
+      "B": 255,
+      "A": 5
+    },
+    "FillColor": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 153
+    },
+    "SecondaryColor": {
+      "R": 255,
+      "G": 0,
+      "B": 0,
+      "A": 60
+    },
+    "White": {
+      "R": 200,
+      "G": 200,
+      "B": 200,
+      "A": 200
+    },
+    "HudSecondary": {
+      "R": 0,
+      "G": 200,
+      "B": 255,
+      "A": 70
+    },
+    "Black": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 240
+    },
+    "WhiteWash": {
+      "R": 255,
+      "G": 255,
+      "B": 255,
+      "A": 30
+    },
+    "WindowBackground": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 180
+    },
+    "WindowHeaderFooter": {
+      "R": 255,
+      "G": 255,
+      "B": 255,
+      "A": 255
+    },
+    "WindowLineColor": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 255
+    },
+    "Transparent": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 0
+    },
+    "SegmentBright": {
+      "R": 120,
+      "G": 120,
+      "B": 120,
+      "A": 150
+    },
+    "SegmentDark": {
+      "R": 60,
+      "G": 60,
+      "B": 60,
+      "A": 150
+    },
+    "InteractColor": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 153
+    },
+    "Button": {
+      "CurrentChoice": "9acbe776-5df2-4fd8-9c8c-b9eb45d21a87"
+    },
+    "Sliders_BarContents": {
+      "CurrentChoice": "e8eec10e-b8db-4fea-a148-1ad581856282"
+    },
+    "Sliders_Nub": {
+      "CurrentChoice": "445f13fa-9dc8-4dc6-a830-9d0020f9ec88"
+    },
+    "Sliders_NubSlide": {
+      "CurrentChoice": "5b67c002-66b7-5e66-82e1-054706ef1bcb"
+    }
+  },
+  "WarningHighlights": 2,
+  "ConnectedHighlights": 2,
+  "SelectedHighlights": 2,
+  "TreeViewSortMethod": 0,
+  "UiOverrides": {
+    "FontSize": 20,
+    "HudKeyDimension": 40.0,
+    "HudKeyButtonDimension": 60.0,
+    "CommonMargin": {
+      "left": 10,
+      "right": 10,
+      "top": 3,
+      "bottom": 3
+    },
+    "CommonPadding": {
+      "left": 5,
+      "right": 5,
+      "top": 2,
+      "bottom": 2
+    }
+  },
+  "AutoConfigureType": 1,
+  "BackgroundModes": 3
+}

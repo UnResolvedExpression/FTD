@@ -1,0 +1,8 @@
+{
+  "WaveFactor": 1.0,
+  "FixedTime": 12.0,
+  "IsTimeFixed": true,
+  "FixedWeather": 0.0,
+  "IsWeatherFixed": false,
+  "Seagulls": 12
+}

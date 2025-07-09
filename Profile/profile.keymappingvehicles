@@ -1,0 +1,607 @@
+{
+  "ActiveProfile": "00000000-0000-0000-0000-000000000000",
+  "Profiles": {
+    "00000000-0000-0000-0000-000000000000": {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "Name": "Unnamed profile",
+      "ProfileSwitchBindings": {},
+      "Bindings": {
+        "AirYawLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 60,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirYawRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 44,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirRollLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 43,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirRollRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 46,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirPitchUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 45,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirPitchDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 56,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirPrimaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 55,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirPrimaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 42,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirPrimaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10807,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirSecondaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 50,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirSecondaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 47,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirSecondaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 12082,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirTertiaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 53,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirTertiaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 41,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirTertiaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10549,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirA": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 31,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirB": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 32,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirC": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 33,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirD": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 34,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AirE": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 35,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterYawLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 43,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterYawRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 46,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterRollLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 60,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterRollRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 44,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterPitchUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 47,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterPitchDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 50,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterPrimaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 56,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterPrimaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 45,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterPrimaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 11576,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterSecondaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 55,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterSecondaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 42,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterSecondaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10807,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterTertiaryUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 53,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterTertiaryDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 41,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterTertiaryZero": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10549,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterA": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 31,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterB": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 32,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterC": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 33,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterD": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 34,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WaterE": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 35,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexT": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 55,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexG": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 42,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexY": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 60,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexH": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 43,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexU": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 56,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexJ": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 45,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexI": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 44,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexK": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 46,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexO": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 50,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexL": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 47,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexUpArrow": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 85,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexDownArrow": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 86,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexLeftArrow": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 83,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ComplexRightArrow": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 84,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ]
+      }
+    }
+  },
+  "MinimumDeadZone": 0.2
+}

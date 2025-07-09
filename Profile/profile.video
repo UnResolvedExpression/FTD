@@ -1,0 +1,15 @@
+{
+  "VideoStorageLocation": 0,
+  "CaptureMode": 0,
+  "FrameRate": 30.0,
+  "AudioSource": 1,
+  "DeviceIndex": 0,
+  "MaximumSecondsRecorded": 60.0,
+  "Subfolder": "FtD Captures",
+  "AbsolutePath": "",
+  "LimitRecordingLength": 1,
+  "DiskSpaceReserved": 1024,
+  "ConfigureBitrate": false,
+  "AverageBitrate": 8.0,
+  "MaximumBitrate": 10.0
+}

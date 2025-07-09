@@ -1,0 +1,116 @@
+{
+  "$type": "BrilliantSkies.PlayerProfiles.GameConstantsConfiguration, PlayerProfiles",
+  "AttributeDictionary": {
+    "$type": "BrilliantSkies.Core.Collections.DictionaryOfTypedTypesWhichConstructsDefaultTypes`1[[BrilliantSkies.PlayerProfiles.GameConfigAttribute, PlayerProfiles]], Core",
+    "_listOfNames": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "BrilliantSkies.PlayerProfiles.AirDragFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.WaterDragFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.MassFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.BuoyancyFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.PropulsionForceFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.RawResourceStoragePerVolumeAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.DamageFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.AutomaticDetectionAccuracyAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ]
+    },
+    "_listOfObjects": {
+      "$type": "System.Collections.Generic.List`1[[BrilliantSkies.PlayerProfiles.GameConfigAttribute, PlayerProfiles]], mscorlib",
+      "$values": [
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.AirDragFactorAttribute, PlayerProfiles",
+          "ExtraField": null,
+          "Value": 0.4,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.WaterDragFactorAttribute, PlayerProfiles",
+          "Value": 0.4,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.MassFactorAttribute, PlayerProfiles",
+          "Value": 1.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.BuoyancyFactorAttribute, PlayerProfiles",
+          "Value": 1.25,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.PropulsionForceFactorAttribute, PlayerProfiles",
+          "Value": 0.6,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.RawResourceStoragePerVolumeAttribute, PlayerProfiles",
+          "Value": 500.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.DamageFactorAttribute, PlayerProfiles",
+          "Value": 1.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.AutomaticDetectionAccuracyAttribute, PlayerProfiles",
+          "Value": 0.1,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.ApsSpeedFactorAttribute, PlayerProfiles",
+          "Value": 1.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.MissileThrustFactorAttribute, PlayerProfiles",
+          "Value": 1.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        },
+        {
+          "$type": "BrilliantSkies.PlayerProfiles.CramSpeedFactorAttribute, PlayerProfiles",
+          "Value": 1.0,
+          "AllowModification": true,
+          "Modified": false,
+          "BlockModification": false,
+          "ModificationWasApplied": false
+        }
+      ]
+    }
+  }
+}

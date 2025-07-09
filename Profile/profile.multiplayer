@@ -1,0 +1,12 @@
+{
+  "GameName": "New game",
+  "GameComments": "Join me",
+  "GamePassword": "",
+  "ResourcePoints": 100000,
+  "PlayerLimit": 2,
+  "TeamLimit": 2,
+  "Port": 25001,
+  "DisableNat": false,
+  "TeamSelectionMode": 2,
+  "PasswordGuess": ""
+}

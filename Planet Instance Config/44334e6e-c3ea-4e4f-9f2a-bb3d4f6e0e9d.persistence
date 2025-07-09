@@ -1,0 +1,53 @@
+{
+  "PersistentInfoStore": [
+    {
+      "Header": {
+        "Id": {
+          "Id": 1019859457
+        },
+        "Type": 0
+      },
+      "PriorPerformance": {
+        "Attempts": 0,
+        "Completed": true,
+        "FastestTime": 79386.4,
+        "CheapestRun": 30000.0,
+        "HighestScore": 181.391281,
+        "Playthroughs": 2,
+        "Losses": 0
+      },
+      "PlayerSetup": {
+        "ResourcesBought": {
+          "Material": 30000.0
+        },
+        "SpawnPointSelection": {
+          "Id": -1
+        }
+      },
+      "ForceUsageList": [
+        {
+          "ControlLimitations": 0,
+          "ForceId": {
+            "Id": 1010874887
+          },
+          "FilePath": "",
+          "Name": "starting_fortress",
+          "Usage": 0,
+          "AssignedType": 0,
+          "ContainedMaterialCost": 0.0
+        },
+        {
+          "ControlLimitations": 0,
+          "ForceId": {
+            "Id": 1945956160
+          },
+          "FilePath": "",
+          "Name": "starting_rib",
+          "Usage": 0,
+          "AssignedType": 0,
+          "ContainedMaterialCost": 0.0
+        }
+      ]
+    }
+  ]
+}

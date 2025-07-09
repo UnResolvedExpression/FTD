@@ -1,0 +1,1537 @@
+{
+  "ActiveProfile": "00000000-0000-0000-0000-000000000000",
+  "Profiles": {
+    "00000000-0000-0000-0000-000000000000": {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "Name": "Unnamed profile",
+      "ProfileSwitchBindings": {},
+      "Bindings": {
+        "CameraPitchUp": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 7
+          }
+        ],
+        "CameraPitchDown": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 6
+          }
+        ],
+        "CameraYawLeft": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 4
+          }
+        ],
+        "CameraYawRight": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 5
+          }
+        ],
+        "CameraSmooth": [],
+        "MoveForward": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 58,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "MoveLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 36,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "MoveBackward": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 54,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "MoveRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 39,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "MoveUp": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 76,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "MoveDown": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 6,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "BuildRollLeft": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 52,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "BuildRollRight": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 40,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "Interact": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 52,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "BuildRotate": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 66,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "SwapBlock": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 53,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "LockRotation": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 42,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ShrinkBlocks": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 51,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Mirror": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 49,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Fill": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 41,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Freeze": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 110,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Replace": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 5,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "PreviousVehicle": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 67,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "NextVehicle": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 68,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ForceDisplay": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 69,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "RenameBlock": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 12545,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "CopyInBuildMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 9732,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "PasteInBuildMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 14596,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "CutAways": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 80,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "DetectionView": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 70,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ToggleSpecialBuildingView": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 13057,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "PermaBuild": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 11012,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "PrefabMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 13060,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "SubobjectMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 12804,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "ToggleRepair": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 20,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponPrevious": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 9
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 67,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponNext": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 8
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 68,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ChangeCamera": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 66,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ProjectileFollowCamera": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 110,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "FootLatching": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 69,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "BuildMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 37,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CycleResourceGive": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 18,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "FireVehicle": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 2
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 8,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "ItemPrimary": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 1
+          }
+        ],
+        "ItemSecondary": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 2
+          }
+        ],
+        "HeadTorch": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 12033,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "FocusCamera": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 28161,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "FocusCameraAndAdjustDistance": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 28164,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "CampaignMission": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 14,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CampaignDiplomacy": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 14,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ToggleBuildStyle": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 16,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ToggleResourceView": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 13572,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "EnemySpawnUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 59,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ProfilingUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 19,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "MapUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 48,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ForceFleetUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 40,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AiControlUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 38,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CharacterSheetUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 61,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "VehicleInfoUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 57,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "InventoryUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 40,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "MiscToolsUI": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10241,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "Benchmarker": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 17,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "PauseGame": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 24,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Screenshot": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 25,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ZoomInHeld": [],
+        "ZoomOutHeld": [],
+        "ZoomIn": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 8
+          }
+        ],
+        "ZoomOut": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 9
+          }
+        ],
+        "BuildPrimary": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 1
+          }
+        ],
+        "Toolbar0": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 27,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar1": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 28,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar2": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 29,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar3": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 30,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar4": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 31,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar5": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 32,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar6": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 33,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar7": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 34,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar8": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 35,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "Toolbar9": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 26,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "SpeedUpCamera": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 5,
+              "excludeSize": 0,
+              "excludeData": 0
+            }
+          }
+        ],
+        "NextSong": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 101,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "SlowDownTime": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 63,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "SpeedUpTime": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 64,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "FeedbackUi": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 3585,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "PreviousTab": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 67,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "NextTab": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 68,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "LookInUi": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 3
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 40,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "SliderIncrement": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 8
+          }
+        ],
+        "SliderDecrement": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 9
+          }
+        ],
+        "ShowMouseAndExtendedOptions": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 3
+          }
+        ],
+        "CaptureBuildGuideStage": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 24833,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "ForceGarbageCollector": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 4097,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "MirrorCentral": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 12546,
+              "excludeSize": 2,
+              "excludeData": 260
+            }
+          }
+        ],
+        "Undo": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 15620,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "Redo": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 15364,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "ToggleDevConsole": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 5889,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "ClearDevConsole": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 23,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "EraseBlockGroup": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 19969,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "ConnectionRuleMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 65,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "PlaceDecoration": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 15108,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "DisableAnnotations": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10497,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "SynchLocalisationTool": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 4612,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "ToggleLanguageToEnglish": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 4868,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "PlaceAsDecoration": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 3,
+              "includeData": 3866884,
+              "excludeSize": 1,
+              "excludeData": 2
+            }
+          }
+        ],
+        "MultiplayerInfo": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 15,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ChangeChatMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 18,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ToggleHud": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 22,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "ToggleVideoRecording": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 11777,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "WeaponSlotPrevious": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 67,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlotNext": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 68,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "VehicleFireCommand": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 1
+          }
+        ],
+        "CameraFollowPrev": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 88,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraCycleMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 66,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 89,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraFollowNext": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 90,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraPositionPrev": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 94,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraAddRemovePosition": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 95,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraPositionNext": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 96,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraLookAtPrev": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 91,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraClearTarget": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 92,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraLookAtNext": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 93,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraToggleConstructControl": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 8,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "CameraFireMode": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 2
+          }
+        ],
+        "CameraReset": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 87,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraToggleControls": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 99,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "AvatarSpawnDestroy": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 10753,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          },
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 98,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot1": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 27,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot2": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 28,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot3": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 29,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot4": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 30,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot5": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 31,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot6": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 32,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot7": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 33,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot8": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 34,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlot9": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 35,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlotAll": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 26,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "WeaponSlotNone": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 100,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraPositionWrite": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 16900,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "LookOutOfUi": [
+          {
+            "$type": "InControl.MouseBindingSource, InControl",
+            "Control": 3
+          }
+        ],
+        "ThirdPersonCamera": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 15361,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "CycleActiveController": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 13320,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "ToolMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 14081,
+              "excludeSize": 2,
+              "excludeData": 516
+            }
+          }
+        ],
+        "AlternateScrollFunction": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 4,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "PinInteractionTip": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 2,
+              "includeData": 14084,
+              "excludeSize": 2,
+              "excludeData": 258
+            }
+          }
+        ],
+        "CameraCycleModes": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 66,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ],
+        "CameraConstructMode": [
+          {
+            "$type": "InControl.KeyBindingSource, InControl",
+            "Control": {
+              "includeSize": 1,
+              "includeData": 89,
+              "excludeSize": 3,
+              "excludeData": 66052
+            }
+          }
+        ]
+      }
+    }
+  },
+  "MinimumDeadZone": 0.2
+}

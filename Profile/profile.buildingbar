@@ -1,0 +1,26 @@
+{
+  "SelectedType": 1,
+  "Favourites": [
+    {
+      "AbrevName": "adventureraft3",
+      "OneLiner": "One line description",
+      "FullDescription": "Full description",
+      "FileLocationInfo": "adventureraft3",
+      "FileSource": 0,
+      "FactionDesignId": {
+        "FactionId": {
+          "Id": -1
+        },
+        "ObjectId": {
+          "Id": -1
+        }
+      },
+      "BlueprintName": "adventureraft3",
+      "FileFound": 1,
+      "UnlockTime": -1.0,
+      "HasResourceCostCalculated": false,
+      "Type": 0,
+      "Usage": 1
+    }
+  ]
+}

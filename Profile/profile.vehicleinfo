@@ -1,0 +1,20 @@
+{
+  "Resource": true,
+  "Ammo": true,
+  "Fuel": true,
+  "Power": true,
+  "VehicleHealth": false,
+  "Speed": true,
+  "VerticalSpeed": false,
+  "Stability": false,
+  "Drag": false,
+  "MainPropDrive": true,
+  "SecondPropDrive": false,
+  "ThirdPropDrive": false,
+  "PrimaryDrive": false,
+  "SecondaryDrive": false,
+  "TertiaryDrive": false,
+  "Altimeter": true,
+  "Heading": false,
+  "RollPitchYaw": false
+}

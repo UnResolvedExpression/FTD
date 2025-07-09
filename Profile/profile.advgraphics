@@ -1,0 +1,21 @@
+{
+  "UseAmbientOcclusion": true,
+  "UseBloom": true,
+  "RenderShoreFx": true,
+  "UseReflectionPlane": true,
+  "BloomIntensityFactor": 1.0,
+  "BloomThresholdFactor": 1.3,
+  "ReflectionProbeType": 1,
+  "LightIntensityFactor": 1.7,
+  "SunIntensityFactor": 1.5,
+  "WaterReflectionType": 1,
+  "ExtraShadows": false,
+  "ForceCpuOcean": false,
+  "UseColorPostProcess": true,
+  "ForceSimpleShaders": false,
+  "ReflectionProbeIntensity": 1.5,
+  "EnableHeadTorch": false,
+  "GpuWaterVertexDensity": 0.1,
+  "ClarityFactor": 1.0,
+  "EdgeDetection": 1
+}

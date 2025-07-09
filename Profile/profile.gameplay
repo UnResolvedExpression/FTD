@@ -1,0 +1,21 @@
+{
+  "WeaponSlotOption": 1,
+  "AvatarMortalityOption": 0,
+  "ShowFullOrderedBattleList": false,
+  "SpawnDifficulty": 15,
+  "SortBy": 2,
+  "SpawnRange": 1090.0,
+  "SpawnType": 16,
+  "AllowBuiltInModification": false,
+  "AvatarModel": "RambotModel",
+  "DisableLuck": false,
+  "LoadIntoChair": false,
+  "FragmentionLimit": 500,
+  "ApsLimit": 500,
+  "CramLimit": 500,
+  "PlasmaLimit": 500,
+  "FlamerLimit": 500,
+  "GenericLimit": 500,
+  "SlowBuild": false,
+  "TargettingDisplayOptions": 3
+}
