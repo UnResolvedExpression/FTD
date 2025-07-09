@@ -2,6 +2,6 @@ git add --a
 
 git commit -m "backup"
 
-git push master remote
+git push remote master
 
 exit
