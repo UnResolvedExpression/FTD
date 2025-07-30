@@ -1,7 +1,7 @@
 {
   "WaterRemovalEffect": 2,
   "ShowResourcesBarsForEnemies": false,
-  "ViewSpecialResourceView": false,
+  "ViewSpecialResourceView": true,
   "ComplexBlocks": false,
   "SlowMoExplode": true,
   "MissileTrailLengthFactor": 1.0,

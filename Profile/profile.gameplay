@@ -4,7 +4,7 @@
   "ShowFullOrderedBattleList": false,
   "SpawnDifficulty": 15,
   "SortBy": 2,
-  "SpawnRange": 1090.0,
+  "SpawnRange": 2000.0,
   "SpawnType": 16,
   "AllowBuiltInModification": false,
   "AvatarModel": "RambotModel",

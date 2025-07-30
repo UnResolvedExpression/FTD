@@ -108,9 +108,9 @@
   "SelectedHighlights": 2,
   "TreeViewSortMethod": 0,
   "UiOverrides": {
-    "FontSize": 20,
-    "HudKeyDimension": 40.0,
-    "HudKeyButtonDimension": 60.0,
+    "FontSize": 24,
+    "HudKeyDimension": 48.0,
+    "HudKeyButtonDimension": 80.0,
     "CommonMargin": {
       "left": 10,
       "right": 10,
